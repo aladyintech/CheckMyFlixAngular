@@ -19,7 +19,7 @@ TypeScript, Angular, TypeDoc
 
 ## Deployed app link
 
-https://samia-gits-it.github.io/myFlix-Angular-client/
+https://samia-gits-it.github.io/CheckMyFlixAngular/
 
 ## Development server
 
